@@ -21,5 +21,5 @@ My notes on training LoRA
 
 * https://rentry.co/59xed3
 * https://github.com/bmaltais/kohya_ss/wiki/LoRA-training-parameters
-* Training a Character Lora for SD1.5: https://civitai.com/articles/138/making-a-lora-is-like-baking-a-cake
+* Training a Character Lora for SD1.5: https://civitai.com/articles/138/making-a-lora-is-like-baking-a-cake: Extremely long! Might be a waste of your time! But it is detailed. For anime, less important for realism.
 * 
