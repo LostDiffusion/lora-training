@@ -14,6 +14,7 @@ My notes on training LoRA
 * Clip skip: 1 for realism
 * Network dimension bewteen 1 and 16 (?)
 * If using one unique Activation tag, use Keep N Tokens set to 1. (ie keep just the first token)
+* https://openmodeldb.info/models/4x-realesrgan-x4plus - For realism
 
 
 ## References
